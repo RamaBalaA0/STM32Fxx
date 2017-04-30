@@ -23,7 +23,7 @@ Thread which grabs the mutex will be executed,other threads will wait till mutex
 Once,Mems sensor thread starts,it will keep on executing until user button is pressed.
 
 
-Threads execution in Event viewer ans system viewer.
+Threads execution in Event viewer and system viewer pics are uploaded too.
 
 
 
