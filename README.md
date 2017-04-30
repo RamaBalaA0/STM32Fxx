@@ -21,3 +21,9 @@ So Led's are protected using mutex's.
 
 Thread which grabs the mutex will be executed,other threads will wait till mutex is released.
 Once,Mems sensor thread starts,it will keep on executing until user button is pressed.
+
+
+Threads execution in Event viewer ans system viewer.
+
+
+
